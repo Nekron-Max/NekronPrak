@@ -42,3 +42,4 @@ def count_mark(students,mark):
 need = int(input('Input :'))
 
 count_mark(groupmates,need)
+k=input("press close to exit") 
